@@ -1,6 +1,13 @@
 # Face Editing Generative Adversarial Network with User’s Sketch and Color : 
 SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color 
 
+Made by :
+
+Nour Ben Hajla
+
+Farah Abdelkefi
+
+Intidhar Ben Hnia
 
 ![GUI](https://github.com/user-attachments/assets/8fcc000c-891f-4cd6-97fa-6f0ecba44588)
 
